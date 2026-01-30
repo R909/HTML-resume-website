@@ -3,6 +3,14 @@ I build a single-page resume website in HTML that looks like the provided layout
 
 ![Alt text](./assests/imges/website_UI.png.jpg?raw=true "website UI")
 
+---------------------------------------------------------------
+
+#How i deploy my project on github:-
+
+To see the deployment steps, Please visit my blog link:-
+
+https://project-deployment-on-git.hashnode.dev/project-deployment-on-github?t=1769737011570
+
 #Steps to view my project:-
 
 1. Please visit my public repo (link has been given as https://github.com/R909/HTML-resume-website)
